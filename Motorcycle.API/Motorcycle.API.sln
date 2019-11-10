@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motorcycle.API", "Motorcycle.API\Motorcycle.API.csproj", "{31D16CC2-88FF-4190-833F-09692359CB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motorcycle.DATA", "..\Motorcycle.DATA\Motorcycle.DATA.csproj", "{A1054698-12D1-49EE-8D03-3F24A1CA91D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D16CC2-88FF-4190-833F-09692359CB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D16CC2-88FF-4190-833F-09692359CB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D16CC2-88FF-4190-833F-09692359CB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D16CC2-88FF-4190-833F-09692359CB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1054698-12D1-49EE-8D03-3F24A1CA91D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1054698-12D1-49EE-8D03-3F24A1CA91D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1054698-12D1-49EE-8D03-3F24A1CA91D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1054698-12D1-49EE-8D03-3F24A1CA91D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B5FC15-8597-483F-A2EE-D73F9AEE47F2}
+	EndGlobalSection
+EndGlobal

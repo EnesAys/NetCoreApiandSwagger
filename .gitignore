@@ -27,3 +27,6 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+/Motorcycle.API/.vs/Motorcycle.API
+/Motorcycle.API/Motorcycle.API/Properties
+/Motorcycle.API/Motorcycle.API/appsettings.Development.json
